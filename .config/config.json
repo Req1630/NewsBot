@@ -1,0 +1,53 @@
+{
+    "config": {
+        "check_interval_minutes": 30
+    },
+    "keywords": [
+        {
+            "word": "プログラミング",
+            "category": "Programming",
+            "enabled": true
+        },
+        {
+            "word": "ゲーム開発",
+            "category": "Game Dev",
+            "enabled": true
+        },
+        {
+            "word": "新作ゲーム",
+            "category": "Game",
+            "enabled": true
+        },
+        {
+            "word": "Unreal Engine",
+            "category": "GameDev",
+            "enabled": true
+        }
+    ],
+    "favorites": [
+        {
+            "name": "4Gamer.net",
+            "type": "rss",
+            "url": "https://www.4gamer.net/rss/index.xml",
+            "enabled": true
+        },
+        {
+            "name": "Steam News",
+            "type": "rss",
+            "url": "https://store.steampowered.com/feeds/news.xml",
+            "enabled": true
+        },
+        {
+            "name": "Unreal Engine",
+            "type": "rss",
+            "url": "https://www.unrealengine.com/rss",
+            "enabled": true
+        },
+        {
+            "name": "AUTOMATON",
+            "type": "rss",
+            "url": "https://automaton-media.com/feed/",
+            "enabled": true
+        }
+    ]
+}
