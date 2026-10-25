@@ -9,11 +9,6 @@
             "enabled": true
         },
         {
-            "word": "ゲーム開発",
-            "category": "Game Dev",
-            "enabled": true
-        },
-        {
             "word": "新作ゲーム",
             "category": "Game",
             "enabled": true
@@ -32,22 +27,10 @@
             "enabled": true
         },
         {
-            "name": "Steam News",
-            "type": "rss",
-            "url": "https://store.steampowered.com/feeds/news.xml",
-            "enabled": true
-        },
-        {
             "name": "Unreal Engine",
             "type": "rss",
             "url": "https://www.unrealengine.com/rss",
             "enabled": true
         },
-        {
-            "name": "AUTOMATON",
-            "type": "rss",
-            "url": "https://automaton-media.com/feed/",
-            "enabled": true
-        }
     ]
 }
